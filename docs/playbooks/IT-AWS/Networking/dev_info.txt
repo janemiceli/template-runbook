@@ -1,0 +1,24 @@
+Starting a run to get info on hp-id-dev/871386769552:us-west-2
+getting a list of VPCs
+vpc_id: vpc-faf77d9d, cidr: 172.20.168.0/22
+getting a list of subnets
+cidr: 172.20.168.0/25, name: PUBLIC-AZ-2A, vpc_id: vpc-faf77d9d, az: us-west-2a,  subnet_id: subnet-6d37980a
+cidr: 172.20.168.128/25, name: PUBLIC-AZ-2B, vpc_id: vpc-faf77d9d, az: us-west-2b,  subnet_id: subnet-d430f19d
+cidr: 172.20.169.0/25, name: PUBLIC-AZ-2C, vpc_id: vpc-faf77d9d, az: us-west-2c,  subnet_id: subnet-0be3cc53
+cidr: 172.20.169.128/25, name: PUBLIC-AZ-2A-1, vpc_id: vpc-faf77d9d, az: us-west-2a,  subnet_id: subnet-ef369988
+cidr: 172.20.170.0/25, name: PRIVATE-AZ-A, vpc_id: vpc-faf77d9d, az: us-west-2a,  subnet_id: subnet-5f359a38
+cidr: 172.20.170.128/25, name: PRIVATE-AZ-B, vpc_id: vpc-faf77d9d, az: us-west-2b,  subnet_id: subnet-4a32f303
+cidr: 172.20.171.0/25, name: PRIVATE-AZ-C, vpc_id: vpc-faf77d9d, az: us-west-2c,  subnet_id: subnet-c2e2cd9a
+cidr: 172.20.171.128/25, name: PRIVATE-AZ-A-1, vpc_id: vpc-faf77d9d, az: us-west-2a,  subnet_id: subnet-10349b77
+Starting a run to get info on hp-id-dev/871386769552:us-east-1
+getting a list of VPCs
+vpc_id: vpc-f7138f91, cidr: 172.22.168.0/22
+getting a list of subnets
+cidr: 172.22.168.0/25, name: PUBLIC-AZ-1A, vpc_id: vpc-f7138f91, az: us-east-1a,  subnet_id: subnet-2bd09170
+cidr: 172.22.168.128/25, name: PUBLIC-AZ-1C, vpc_id: vpc-f7138f91, az: us-east-1c,  subnet_id: subnet-703c765d
+cidr: 172.22.169.0/25, name: PUBLIC-AZ-1D, vpc_id: vpc-f7138f91, az: us-east-1d,  subnet_id: subnet-95546fdc
+cidr: 172.22.169.128/25, name: PUBLIC-AZ-1E, vpc_id: vpc-f7138f91, az: us-east-1e,  subnet_id: subnet-1355db2f
+cidr: 172.22.170.0/25, name: PRIVATE-AZ-1C, vpc_id: vpc-f7138f91, az: us-east-1c,  subnet_id: subnet-3e3d7713
+cidr: 172.22.170.128/25, name: PRIVATE-AZ-1A, vpc_id: vpc-f7138f91, az: us-east-1a,  subnet_id: subnet-9dd392c6
+cidr: 172.22.171.0/25, name: PRIVATE-AZ-1D, vpc_id: vpc-f7138f91, az: us-east-1d,  subnet_id: subnet-574a711e
+cidr: 172.22.171.128/25, name: PRIVATE-AZ-1E, vpc_id: vpc-f7138f91, az: us-east-1e,  subnet_id: subnet-f055dbcc

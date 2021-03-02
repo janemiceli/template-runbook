@@ -1,0 +1,24 @@
+Starting a run to get info on hpid-prod-pro/872569379934:us-west-2
+getting a list of VPCs
+vpc_id: vpc-2f156c48, cidr: 172.20.176.0/22
+getting a list of subnets
+cidr: 172.20.176.0/25, name: PUBLIC_SUBNET_AZ_2A, vpc_id: vpc-2f156c48, az: us-west-2a,  subnet_id: subnet-57821430
+cidr: 172.20.176.128/25, name: PUBLIC_SUBNET_AZ_2B, vpc_id: vpc-2f156c48, az: us-west-2b,  subnet_id: subnet-d3ac049a
+cidr: 172.20.177.0/25, name: PUBLIC_SUBNET_AZ_2C, vpc_id: vpc-2f156c48, az: us-west-2c,  subnet_id: subnet-9a3639c2
+cidr: 172.20.177.128/25, name: PUBLIC_SUBNET_AZ_2A_1, vpc_id: vpc-2f156c48, az: us-west-2a,  subnet_id: subnet-43831524
+cidr: 172.20.178.0/25, name: PRIVATE_SUBNET_AZ_2A, vpc_id: vpc-2f156c48, az: us-west-2a,  subnet_id: subnet-f1821496
+cidr: 172.20.178.128/25, name: PRIVATE_SUBNET_AZ_2B, vpc_id: vpc-2f156c48, az: us-west-2b,  subnet_id: subnet-5bad0512
+cidr: 172.20.179.0/25, name: PRIVATE_SUBNET_AZ_2C, vpc_id: vpc-2f156c48, az: us-west-2c,  subnet_id: subnet-40353a18
+cidr: 172.20.179.128/25, name: PRIVATE_SUBNET_AZ_2A_1, vpc_id: vpc-2f156c48, az: us-west-2a,  subnet_id: subnet-878214e0
+Starting a run to get info on hpid-prod-pro/872569379934:us-east-1
+getting a list of VPCs
+vpc_id: vpc-c6e6b3a0, cidr: 172.22.176.0/22
+getting a list of subnets
+cidr: 172.22.176.0/25, name: PUBLIC_SUBNET_AZ_1A, vpc_id: vpc-c6e6b3a0, az: us-east-1a,  subnet_id: subnet-0cc42b44
+cidr: 172.22.176.128/25, name: PUBLIC_SUBNET_AZ_1B, vpc_id: vpc-c6e6b3a0, az: us-east-1b,  subnet_id: subnet-e26349b9
+cidr: 172.22.177.0/25, name: PUBLIC_SUBNET_AZ_1C, vpc_id: vpc-c6e6b3a0, az: us-east-1c,  subnet_id: subnet-81f79fe4
+cidr: 172.22.177.128/25, name: PUBLIC_SUBNET_AZ_1D, vpc_id: vpc-c6e6b3a0, az: us-east-1d,  subnet_id: subnet-17043b3a
+cidr: 172.22.178.0/25, name: PRIVATE_SUBNET_AZ_1A, vpc_id: vpc-c6e6b3a0, az: us-east-1a,  subnet_id: subnet-6cc32c24
+cidr: 172.22.178.128/25, name: PRIVATE_SUBNET_AZ_1B, vpc_id: vpc-c6e6b3a0, az: us-east-1b,  subnet_id: subnet-92604ac9
+cidr: 172.22.179.0/25, name: PRIVATE_SUBNET_AZ_1C, vpc_id: vpc-c6e6b3a0, az: us-east-1c,  subnet_id: subnet-46cda523
+cidr: 172.22.179.128/25, name: PRIVATE_SUBNET_AZ_1D, vpc_id: vpc-c6e6b3a0, az: us-east-1d,  subnet_id: subnet-77033c5a

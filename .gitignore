@@ -1,0 +1,12 @@
+# Intellij project and modules
+.idea/
+*.iml
+*.iws
+
+# editor swap and backups
+*~
+*.*~
+*.swp
+
+/docs/_site
+/docs/Gemfile.lock
